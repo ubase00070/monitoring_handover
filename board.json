@@ -43,7 +43,7 @@
       "email": "ubase00070@gmail.com",
       "author": "최윤혁",
       "title": "예를 들어서",
-      "content": "그러면은 123",
+      "content": "그러면은",
       "createdAt": "2026-06-11T03:06:10.628Z",
       "comments": [
         {
@@ -55,7 +55,7 @@
           "replies": []
         }
       ],
-      "updatedAt": "2026-06-11T04:30:47.972Z"
+      "updatedAt": "2026-06-11T04:31:02.555Z"
     }
   ]
 }
