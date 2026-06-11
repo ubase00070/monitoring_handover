@@ -1,15 +1,6 @@
 {
   "posts": [
     {
-      "id": "1781139095370",
-      "email": "ubase00070@gmail.com",
-      "author": "최윤혁",
-      "title": "123",
-      "content": "456",
-      "createdAt": "2026-06-11T00:51:35.370Z",
-      "comments": []
-    },
-    {
       "id": "1749100001",
       "email": "ubase00070@gmail.com",
       "author": "최윤혁",
