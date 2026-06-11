@@ -24,7 +24,15 @@
           "author": "박효빈",
           "text": "옳소!!",
           "createdAt": "2026-06-11T05:13:17.916Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1781154914632",
+              "email": "ubase00083@gmail.com",
+              "author": "신은정",
+              "text": "★",
+              "createdAt": "2026-06-11T05:15:14.632Z"
+            }
+          ]
         }
       ],
       "updatedAt": "2026-06-11T04:22:18.603Z"
