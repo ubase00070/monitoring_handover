@@ -1,22 +1,3 @@
 {
-  "posts": [
-    {
-      "id": "1781146772825",
-      "email": "ubase00070@gmail.com",
-      "author": "최윤혁",
-      "title": "아아아 테스트",
-      "content": "아아아 123",
-      "createdAt": "2026-06-11T02:59:32.825Z",
-      "comments": [
-        {
-          "id": "c1781147097994",
-          "email": "ubase00070@gmail.com",
-          "author": "최윤혁",
-          "text": "123",
-          "createdAt": "2026-06-11T03:04:57.994Z",
-          "replies": []
-        }
-      ]
-    }
-  ]
+  "posts": []
 }
