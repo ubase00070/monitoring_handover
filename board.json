@@ -14,7 +14,15 @@
           "author": "최윤혁",
           "text": "만약에",
           "createdAt": "2026-06-11T03:30:10.925Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1781149544389",
+              "email": "ubase00070@gmail.com",
+              "author": "최윤혁",
+              "text": "yeah",
+              "createdAt": "2026-06-11T03:45:44.389Z"
+            }
+          ]
         }
       ],
       "updatedAt": "2026-06-11T03:30:03.808Z"
