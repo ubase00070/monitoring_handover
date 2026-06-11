@@ -1,3 +1,13 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "1781147170628",
+      "email": "ubase00070@gmail.com",
+      "author": "최윤혁",
+      "title": "예를 들어서",
+      "content": "그러면은 만약에",
+      "createdAt": "2026-06-11T03:06:10.628Z",
+      "comments": []
+    }
+  ]
 }
