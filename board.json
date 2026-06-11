@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "1781152197208",
+      "email": "ubase00070@gmail.com",
+      "author": "최윤혁",
+      "title": "연타 테스트",
+      "content": "연타타타타",
+      "createdAt": "2026-06-11T04:29:57.208Z",
+      "comments": []
+    },
+    {
       "id": "1781151785338",
       "email": "ubase00047@gmail.com",
       "author": "오정훈",
