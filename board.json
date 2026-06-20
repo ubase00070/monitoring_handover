@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "1781920068967",
+      "email": "ubase00070@gmail.com",
+      "author": "최윤혁",
+      "title": "Let us not this planet for granted.",
+      "content": "I do not take tonight for granted.\n\n                        - Leonardo DiCaprio, Academy Awards 2016",
+      "createdAt": "2026-06-20T01:47:48.967Z",
+      "comments": []
+    },
+    {
       "id": "1781151348595",
       "email": "ubase00047@gmail.com",
       "author": "오정훈",
