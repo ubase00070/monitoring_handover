@@ -7,7 +7,16 @@
       "title": "전 내일 쉽니다",
       "content": "하하하하하하하하",
       "createdAt": "2026-06-25T03:42:35.005Z",
-      "comments": []
+      "comments": [
+        {
+          "id": "c1782359416005",
+          "email": "ubase00070@gmail.com",
+          "author": "최윤혁",
+          "text": "🫠🫠🫠",
+          "createdAt": "2026-06-25T03:50:16.005Z",
+          "replies": []
+        }
+      ]
     },
     {
       "id": "1781920068967",
