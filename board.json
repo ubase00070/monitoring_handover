@@ -150,6 +150,14 @@
           "text": "(()=>{const d=document.getElementById('neubie-dashboard');if(!d){console.log('대시보드 안열림');return;}const dr=d.getBoundingClientRect();console.log('대시보드 right:',Math.round(dr.right),'width:',Math.round(dr.width));let found=0;d.querySelectorAll('*').forEach(el=>{const r=el.getBoundingClientRect();if(r.right>dr.right+2){found++;console.log('넘침:',el.tagName,el.className?.toString().slice(0,25),'초과:',Math.round(r.right-dr.right)+'px','|',el.innerText?.slice(0,15));}});if(!found)console.log('넘치는 요소 없음 - 콘텐츠는 정상');})();",
           "createdAt": "2026-06-25T07:40:24.399Z",
           "replies": []
+        },
+        {
+          "id": "c1782373282333",
+          "email": "ubase00047@gmail.com",
+          "author": "오정훈",
+          "text": "대시보드 right: 1200 width: 580\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 📋 오정훈의 일일 업무\n알\n2_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 📋 오정훈의 일일 업무\n알\n_app-ddd0453ed43ccbed.js:12 넘침: SELECT  초과: 8px | 알림 없음\n3분 전\n5분 전\n2_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 08:00\n다중 모니터링\n✅\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 13:05\n[13:05] 파\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 요기요 페이지 최적화\ni\nO\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 실시간 성남 배터리\n2_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 11px | 실시간 성남 배터리\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 스케줄표 + 좌석 배치도\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 최적화 팁\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 영상 파일명 생성기\n성수 요\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 영상 파일명 생성기\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 성수 요기요 #232\nHit\n_app-ddd0453ed43ccbed.js:12 넘침: SPAN  초과: 8px | 복사\n_app-ddd0453ed43ccbed.js:12 넘침: BUTTON  초과: 8px | 복사\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 다중 모니터링\n배송/순찰 띠\n_app-ddd0453ed43ccbed.js:12 넘침: BUTTON sub-btn 초과: 8px | 배송/순찰 띠띠",
+          "createdAt": "2026-06-25T07:41:22.333Z",
+          "replies": []
         }
       ],
       "updatedAt": "2026-06-11T04:06:16.270Z"
