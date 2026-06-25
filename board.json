@@ -126,7 +126,16 @@
       "title": "상권",
       "content": "강남, 잠실도 힘들다",
       "createdAt": "2026-06-11T04:05:40.720Z",
-      "comments": [],
+      "comments": [
+        {
+          "id": "c1782372679929",
+          "email": "ubase00047@gmail.com",
+          "author": "오정훈",
+          "text": "===== 핵심 측정 =====\n_app-ddd0453ed43ccbed.js:12 대시보드 실제폭: 580\n_app-ddd0453ed43ccbed.js:12 left: 376 | right: 956\n_app-ddd0453ed43ccbed.js:12 🔴 우측 잘림량: 376 (음수면 잘림)\n_app-ddd0453ed43ccbed.js:12 ===== 환경 =====\n_app-ddd0453ed43ccbed.js:12 innerWidth: 1332 | outerWidth: 1570\n_app-ddd0453ed43ccbed.js:12 devicePixelRatio: 0.75\n_app-ddd0453ed43ccbed.js:12 screen.width: 1920 | availWidth: 1920\n_app-ddd0453ed43ccbed.js:12 실제 줌 추정: 1.18\n_app-ddd0453ed43ccbed.js:12 ===== 스타일 =====\n_app-ddd0453ed43ccbed.js:12 computed width: 580px\n_app-ddd0453ed43ccbed.js:12 computed maxWidth: none\n_app-ddd0453ed43ccbed.js:12 left: 666px | transform: matrix(1, 0, 0, 1, -290, -294.25)\n_app-ddd0453ed43ccbed.js:12 boxSizing: border-box\n_app-ddd0453ed43ccbed.js:12 ===== 부모/뷰포트 =====\n_app-ddd0453ed43ccbed.js:12 documentElement.clientWidth: 1332\n_app-ddd0453ed43ccbed.js:12 body.clientWidth: 1332\n_app-ddd0453ed43ccbed.js:12 min() CSS 지원: true",
+          "createdAt": "2026-06-25T07:31:19.929Z",
+          "replies": []
+        }
+      ],
       "updatedAt": "2026-06-11T04:06:16.270Z"
     },
     {
