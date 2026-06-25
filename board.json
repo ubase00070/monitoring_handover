@@ -142,6 +142,14 @@
           "text": "fetch('https://raw.githubusercontent.com/ubase00070/monitoring_data_vault/main/remote_logic.js?t=' + Date.now()) .then(r => r.text()) .then(text => { console.log('min(580px) 적용:', text.includes('min(580px') ? '✅ 깃허브엔 있음' : '❌ 깃허브에 없음'); });\nPromise {<pending>}\n_app-ddd0453ed43ccbed.js:12 min(580px) 적용: ✅ 깃허브엔 있음\nfetch('https://raw.githubusercontent.com/ubase00070/monitoring_data_vault/main/remote_logic.js?t=' + Date.now()) .then(r => r.text()) .then(text => { const idx = text.indexOf(\"createContainer('neubie-dashboard'\"); console.log(text.slice(idx, idx + 80)); });\nPromise {<pending>}\n_app-ddd0453ed43ccbed.js:12 createContainer('neubie-dashboard', 'min(580px, 94vw)', '50%', '50%');\n    cons",
           "createdAt": "2026-06-25T07:35:49.781Z",
           "replies": []
+        },
+        {
+          "id": "c1782373069255",
+          "email": "ubase00070@gmail.com",
+          "author": "최윤혁",
+          "text": "const dash = document.getElementById('neubie-dashboard');\nconst dashRect = dash.getBoundingClientRect();\nconsole.log('대시보드 우측 경계:', Math.round(dashRect.right));\nconsole.log('===== 넘치는 요소 찾기 =====');\n\ndash.querySelectorAll('*').forEach(el => {\n    const r = el.getBoundingClientRect();\n    // 대시보드 우측 경계를 넘어가는 요소\n    if (r.right > dashRect.right + 2) {\n        console.log(`넘침: ${el.tagName}.${el.className?.toString().slice(0,30)} | right:${Math.round(r.right)} | 초과:${Math.round(r.right - dashRect.right)}px | text:\"${el.innerText?.slice(0,20)}\"`);\n    }\n});",
+          "createdAt": "2026-06-25T07:37:49.255Z",
+          "replies": []
         }
       ],
       "updatedAt": "2026-06-11T04:06:16.270Z"
