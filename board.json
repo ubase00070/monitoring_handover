@@ -8,7 +8,17 @@
       "content": "말 걸지 말아주세요.",
       "anon": true,
       "createdAt": "2026-06-25T08:31:13.771Z",
-      "comments": []
+      "comments": [
+        {
+          "id": "c1782376318387",
+          "email": "ubase00093@gmail.com",
+          "author": "익명",
+          "text": "어젘라고",
+          "anon": true,
+          "createdAt": "2026-06-25T08:31:58.387Z",
+          "replies": []
+        }
+      ]
     },
     {
       "id": "1782374068069",
