@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "1782375947001",
+      "email": "ubase00070@gmail.com",
+      "author": "익명",
+      "title": "익명 테스트",
+      "content": "TEST",
+      "anon": true,
+      "createdAt": "2026-06-25T08:25:47.001Z",
+      "comments": []
+    },
+    {
       "id": "1782374068069",
       "email": "ubase00093@gmail.com",
       "author": "성혜진",
