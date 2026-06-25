@@ -5,10 +5,11 @@
       "email": "ubase00070@gmail.com",
       "author": "익명",
       "title": "익명 테스트",
-      "content": "TEST",
+      "content": "TEST\n\n익명수정 테스트",
       "anon": true,
       "createdAt": "2026-06-25T08:25:47.001Z",
-      "comments": []
+      "comments": [],
+      "updatedAt": "2026-06-25T08:25:56.363Z"
     },
     {
       "id": "1782374068069",
