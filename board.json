@@ -26,6 +26,15 @@
               "createdAt": "2026-06-25T08:28:21.858Z"
             }
           ]
+        },
+        {
+          "id": "c1782376149528",
+          "email": "ubase00092@gmail.com",
+          "author": "이민수",
+          "text": "와",
+          "anon": false,
+          "createdAt": "2026-06-25T08:29:09.528Z",
+          "replies": []
         }
       ],
       "updatedAt": "2026-06-25T08:25:56.363Z"
