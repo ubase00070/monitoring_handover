@@ -136,14 +136,6 @@
       "createdAt": "2026-06-11T04:05:40.720Z",
       "comments": [
         {
-          "id": "c1782372949781",
-          "email": "ubase00047@gmail.com",
-          "author": "오정훈",
-          "text": "fetch('https://raw.githubusercontent.com/ubase00070/monitoring_data_vault/main/remote_logic.js?t=' + Date.now()) .then(r => r.text()) .then(text => { console.log('min(580px) 적용:', text.includes('min(580px') ? '✅ 깃허브엔 있음' : '❌ 깃허브에 없음'); });\nPromise {<pending>}\n_app-ddd0453ed43ccbed.js:12 min(580px) 적용: ✅ 깃허브엔 있음\nfetch('https://raw.githubusercontent.com/ubase00070/monitoring_data_vault/main/remote_logic.js?t=' + Date.now()) .then(r => r.text()) .then(text => { const idx = text.indexOf(\"createContainer('neubie-dashboard'\"); console.log(text.slice(idx, idx + 80)); });\nPromise {<pending>}\n_app-ddd0453ed43ccbed.js:12 createContainer('neubie-dashboard', 'min(580px, 94vw)', '50%', '50%');\n    cons",
-          "createdAt": "2026-06-25T07:35:49.781Z",
-          "replies": []
-        },
-        {
           "id": "c1782373224399",
           "email": "ubase00070@gmail.com",
           "author": "최윤혁",
