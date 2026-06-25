@@ -142,14 +142,6 @@
           "text": "대시보드 right: 1200 width: 580\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 📋 오정훈의 일일 업무\n알\n2_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 📋 오정훈의 일일 업무\n알\n_app-ddd0453ed43ccbed.js:12 넘침: SELECT  초과: 8px | 알림 없음\n3분 전\n5분 전\n2_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 08:00\n다중 모니터링\n✅\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 13:05\n[13:05] 파\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 요기요 페이지 최적화\ni\nO\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 실시간 성남 배터리\n2_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 11px | 실시간 성남 배터리\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 스케줄표 + 좌석 배치도\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 최적화 팁\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 25px | 영상 파일명 생성기\n성수 요\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 영상 파일명 생성기\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 성수 요기요 #232\nHit\n_app-ddd0453ed43ccbed.js:12 넘침: SPAN  초과: 8px | 복사\n_app-ddd0453ed43ccbed.js:12 넘침: BUTTON  초과: 8px | 복사\n_app-ddd0453ed43ccbed.js:12 넘침: DIV  초과: 8px | 다중 모니터링\n배송/순찰 띠\n_app-ddd0453ed43ccbed.js:12 넘침: BUTTON sub-btn 초과: 8px | 배송/순찰 띠띠",
           "createdAt": "2026-06-25T07:41:22.333Z",
           "replies": []
-        },
-        {
-          "id": "c1782373381700",
-          "email": "ubase00047@gmail.com",
-          "author": "오정훈",
-          "text": "(()=>{const d=document.getElementById('neubie-dashboard');const dr=d.getBoundingClientRect();console.log('dash inner 영역:',Math.round(dr.left+20),'~',Math.round(dr.right-20),'(width',Math.round(dr.width-40)+')');[...d.children].forEach((el,i)=>{const r=el.getBoundingClientRect();const cs=getComputedStyle(el);console.log(`자식[${i}] ${el.tagName}.${el.className?.toString().slice(0,20)} | left:${Math.round(r.left)} right:${Math.round(r.right)} w:${Math.round(r.width)} | cssW:${cs.width} box:${cs.boxSizing}`);});})();\n_app-ddd0453ed43ccbed.js:12 dash inner 영역: 640 ~ 1180 (width 540)\n_app-ddd0453ed43ccbed.js:12 자식[0] DIV. | left:644 right:1176 w:532 | cssW:532px box:border-box\n_app-ddd0453ed43ccbed.js:12 자식[1] DIV. | left:644 right:1176 w:532 | cssW:532px box:border-box",
-          "createdAt": "2026-06-25T07:43:01.700Z",
-          "replies": []
         }
       ],
       "updatedAt": "2026-06-11T04:06:16.270Z"
