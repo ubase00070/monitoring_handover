@@ -210,7 +210,16 @@
       "title": "상권",
       "content": "강남, 잠실도 힘들다",
       "createdAt": "2026-06-11T04:05:40.720Z",
-      "comments": [],
+      "comments": [
+        {
+          "id": "c1782374577866",
+          "email": "ubase00070@gmail.com",
+          "author": "최윤혁",
+          "text": "무플 방지",
+          "createdAt": "2026-06-25T08:02:57.866Z",
+          "replies": []
+        }
+      ],
       "updatedAt": "2026-06-11T04:06:16.270Z"
     },
     {
