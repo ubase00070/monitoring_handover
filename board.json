@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "id": "1782358955005",
+      "email": "ubase00067@gmail.com",
+      "author": "이환",
+      "title": "전 내일 쉽니다",
+      "content": "하하하하하하하하",
+      "createdAt": "2026-06-25T03:42:35.005Z",
+      "comments": []
+    },
+    {
       "id": "1781920068967",
       "email": "ubase00070@gmail.com",
       "author": "최윤혁",
