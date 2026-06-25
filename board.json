@@ -150,6 +150,14 @@
           "text": "const dash = document.getElementById('neubie-dashboard');\nconst dashRect = dash.getBoundingClientRect();\nconsole.log('대시보드 우측 경계:', Math.round(dashRect.right));\nconsole.log('===== 넘치는 요소 찾기 =====');\n\ndash.querySelectorAll('*').forEach(el => {\n    const r = el.getBoundingClientRect();\n    // 대시보드 우측 경계를 넘어가는 요소\n    if (r.right > dashRect.right + 2) {\n        console.log(`넘침: ${el.tagName}.${el.className?.toString().slice(0,30)} | right:${Math.round(r.right)} | 초과:${Math.round(r.right - dashRect.right)}px | text:\"${el.innerText?.slice(0,20)}\"`);\n    }\n});",
           "createdAt": "2026-06-25T07:37:49.255Z",
           "replies": []
+        },
+        {
+          "id": "c1782373224399",
+          "email": "ubase00070@gmail.com",
+          "author": "최윤혁",
+          "text": "(()=>{const d=document.getElementById('neubie-dashboard');if(!d){console.log('대시보드 안열림');return;}const dr=d.getBoundingClientRect();console.log('대시보드 right:',Math.round(dr.right),'width:',Math.round(dr.width));let found=0;d.querySelectorAll('*').forEach(el=>{const r=el.getBoundingClientRect();if(r.right>dr.right+2){found++;console.log('넘침:',el.tagName,el.className?.toString().slice(0,25),'초과:',Math.round(r.right-dr.right)+'px','|',el.innerText?.slice(0,15));}});if(!found)console.log('넘치는 요소 없음 - 콘텐츠는 정상');})();",
+          "createdAt": "2026-06-25T07:40:24.399Z",
+          "replies": []
         }
       ],
       "updatedAt": "2026-06-11T04:06:16.270Z"
