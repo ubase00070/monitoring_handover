@@ -1,36 +1,6 @@
 {
   "posts": [
     {
-      "id": "1782375947001",
-      "email": "ubase00070@gmail.com",
-      "author": "익명",
-      "title": "익명 테스트",
-      "content": "TEST\n\n익명수정 테스트",
-      "anon": true,
-      "createdAt": "2026-06-25T08:25:47.001Z",
-      "comments": [
-        {
-          "id": "c1782375966881",
-          "email": "ubase00070@gmail.com",
-          "author": "익명",
-          "text": "익명 댓글 테스트\n\n익명 댓글 수정 테스트",
-          "anon": true,
-          "createdAt": "2026-06-25T08:26:06.881Z",
-          "replies": [
-            {
-              "id": "r1782376101858",
-              "email": "ubase00070@gmail.com",
-              "author": "익명",
-              "text": "익명 대댓글 테스트",
-              "anon": true,
-              "createdAt": "2026-06-25T08:28:21.858Z"
-            }
-          ]
-        }
-      ],
-      "updatedAt": "2026-06-25T08:25:56.363Z"
-    },
-    {
       "id": "1782374068069",
       "email": "ubase00093@gmail.com",
       "author": "성혜진",
