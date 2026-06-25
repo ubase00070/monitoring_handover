@@ -144,14 +144,6 @@
           "replies": []
         },
         {
-          "id": "c1782373069255",
-          "email": "ubase00070@gmail.com",
-          "author": "최윤혁",
-          "text": "const dash = document.getElementById('neubie-dashboard');\nconst dashRect = dash.getBoundingClientRect();\nconsole.log('대시보드 우측 경계:', Math.round(dashRect.right));\nconsole.log('===== 넘치는 요소 찾기 =====');\n\ndash.querySelectorAll('*').forEach(el => {\n    const r = el.getBoundingClientRect();\n    // 대시보드 우측 경계를 넘어가는 요소\n    if (r.right > dashRect.right + 2) {\n        console.log(`넘침: ${el.tagName}.${el.className?.toString().slice(0,30)} | right:${Math.round(r.right)} | 초과:${Math.round(r.right - dashRect.right)}px | text:\"${el.innerText?.slice(0,20)}\"`);\n    }\n});",
-          "createdAt": "2026-06-25T07:37:49.255Z",
-          "replies": []
-        },
-        {
           "id": "c1782373224399",
           "email": "ubase00070@gmail.com",
           "author": "최윤혁",
