@@ -47,7 +47,16 @@
           "text": "힘내요 혜진님",
           "anon": true,
           "createdAt": "2026-06-25T08:34:40.160Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1782376510586",
+              "email": "ubase00093@gmail.com",
+              "author": "성혜진",
+              "text": "감사합니다 익명님.....ㅜ",
+              "anon": false,
+              "createdAt": "2026-06-25T08:35:10.586Z"
+            }
+          ]
         }
       ],
       "updatedAt": "2026-06-25T08:16:23.110Z"
