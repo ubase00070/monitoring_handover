@@ -136,14 +136,6 @@
       "createdAt": "2026-06-11T04:05:40.720Z",
       "comments": [
         {
-          "id": "c1782373224399",
-          "email": "ubase00070@gmail.com",
-          "author": "최윤혁",
-          "text": "(()=>{const d=document.getElementById('neubie-dashboard');if(!d){console.log('대시보드 안열림');return;}const dr=d.getBoundingClientRect();console.log('대시보드 right:',Math.round(dr.right),'width:',Math.round(dr.width));let found=0;d.querySelectorAll('*').forEach(el=>{const r=el.getBoundingClientRect();if(r.right>dr.right+2){found++;console.log('넘침:',el.tagName,el.className?.toString().slice(0,25),'초과:',Math.round(r.right-dr.right)+'px','|',el.innerText?.slice(0,15));}});if(!found)console.log('넘치는 요소 없음 - 콘텐츠는 정상');})();",
-          "createdAt": "2026-06-25T07:40:24.399Z",
-          "replies": []
-        },
-        {
           "id": "c1782373282333",
           "email": "ubase00047@gmail.com",
           "author": "오정훈",
