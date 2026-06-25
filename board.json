@@ -136,14 +136,6 @@
       "createdAt": "2026-06-11T04:05:40.720Z",
       "comments": [
         {
-          "id": "c1782372839635",
-          "email": "ubase00070@gmail.com",
-          "author": "최윤혁",
-          "text": "fetch('https://raw.githubusercontent.com/ubase00070/monitoring_data_vault/main/remote_logic.js?t=' + Date.now())\n    .then(r => r.text())\n    .then(text => {\n        console.log('min(580px) 적용:', text.includes('min(580px') ? '✅ 깃허브엔 있음' : '❌ 깃허브에 없음');\n    });",
-          "createdAt": "2026-06-25T07:33:59.635Z",
-          "replies": []
-        },
-        {
           "id": "c1782372899203",
           "email": "ubase00070@gmail.com",
           "author": "최윤혁",
