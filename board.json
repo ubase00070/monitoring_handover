@@ -16,7 +16,16 @@
           "text": "익명 댓글 테스트\n\n익명 댓글 수정 테스트",
           "anon": true,
           "createdAt": "2026-06-25T08:26:06.881Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1782375995228",
+              "email": "ubase00070@gmail.com",
+              "author": "익명",
+              "text": "익명 대댓글 테스트",
+              "anon": true,
+              "createdAt": "2026-06-25T08:26:35.228Z"
+            }
+          ]
         }
       ],
       "updatedAt": "2026-06-25T08:25:56.363Z"
