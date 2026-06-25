@@ -144,14 +144,6 @@
           "replies": []
         },
         {
-          "id": "c1782373342022",
-          "email": "ubase00070@gmail.com",
-          "author": "최윤혁",
-          "text": "(()=>{const d=document.getElementById('neubie-dashboard');const dr=d.getBoundingClientRect();console.log('dash inner 영역:',Math.round(dr.left+20),'~',Math.round(dr.right-20),'(width',Math.round(dr.width-40)+')');[...d.children].forEach((el,i)=>{const r=el.getBoundingClientRect();const cs=getComputedStyle(el);console.log(`자식[${i}] ${el.tagName}.${el.className?.toString().slice(0,20)} | left:${Math.round(r.left)} right:${Math.round(r.right)} w:${Math.round(r.width)} | cssW:${cs.width} box:${cs.boxSizing}`);});})();",
-          "createdAt": "2026-06-25T07:42:22.022Z",
-          "replies": []
-        },
-        {
           "id": "c1782373381700",
           "email": "ubase00047@gmail.com",
           "author": "오정훈",
