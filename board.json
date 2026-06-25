@@ -136,14 +136,6 @@
       "createdAt": "2026-06-11T04:05:40.720Z",
       "comments": [
         {
-          "id": "c1782372899203",
-          "email": "ubase00070@gmail.com",
-          "author": "최윤혁",
-          "text": "fetch('https://raw.githubusercontent.com/ubase00070/monitoring_data_vault/main/remote_logic.js?t=' + Date.now())\n    .then(r => r.text())\n    .then(text => {\n        const idx = text.indexOf(\"createContainer('neubie-dashboard'\");\n        console.log(text.slice(idx, idx + 80));\n    });",
-          "createdAt": "2026-06-25T07:34:59.203Z",
-          "replies": []
-        },
-        {
           "id": "c1782372949781",
           "email": "ubase00047@gmail.com",
           "author": "오정훈",
