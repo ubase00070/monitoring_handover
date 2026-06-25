@@ -26,6 +26,15 @@
               "createdAt": "2026-06-25T08:28:21.858Z"
             }
           ]
+        },
+        {
+          "id": "c1782376155131",
+          "email": "ubase00047@gmail.com",
+          "author": "익명",
+          "text": "123",
+          "anon": true,
+          "createdAt": "2026-06-25T08:29:15.131Z",
+          "replies": []
         }
       ],
       "updatedAt": "2026-06-25T08:25:56.363Z"
