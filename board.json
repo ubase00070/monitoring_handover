@@ -91,6 +91,15 @@
               "createdAt": "2026-06-25T08:02:22.432Z"
             }
           ]
+        },
+        {
+          "id": "c1782542261078",
+          "email": "ubase00047@gmail.com",
+          "author": "오정훈",
+          "text": "감사합니당!!",
+          "anon": false,
+          "createdAt": "2026-06-27T06:37:41.078Z",
+          "replies": []
         }
       ],
       "updatedAt": "2026-06-25T07:51:55.485Z"
