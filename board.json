@@ -52,7 +52,16 @@
           "text": "?",
           "anon": false,
           "createdAt": "2026-07-01T06:40:33.138Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1782888340584",
+              "email": "ubase00069@gmail.com",
+              "author": "이도연",
+              "text": "?",
+              "anon": false,
+              "createdAt": "2026-07-01T06:45:40.584Z"
+            }
+          ]
         },
         {
           "id": "c1782888088903",
