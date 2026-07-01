@@ -8,7 +8,17 @@
       "content": "내가 다시 돌아왔다 반갑다",
       "anon": false,
       "createdAt": "2026-07-01T06:30:41.063Z",
-      "comments": []
+      "comments": [
+        {
+          "id": "c1782887485252",
+          "email": "ubase00090@gmail.com",
+          "author": "이기완",
+          "text": "이럴꺼면 왜퇴사함? ㄹㅇ...",
+          "anon": false,
+          "createdAt": "2026-07-01T06:31:25.252Z",
+          "replies": []
+        }
+      ]
     },
     {
       "id": "1782809817556",
