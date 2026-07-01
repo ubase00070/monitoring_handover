@@ -43,7 +43,16 @@
           "text": "ㅎㅇ~",
           "anon": false,
           "createdAt": "2026-07-01T06:38:06.649Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1782887925736",
+              "email": "ubase00089@gmail.com",
+              "author": "한승완",
+              "text": "이분 뭐야",
+              "anon": false,
+              "createdAt": "2026-07-01T06:38:45.736Z"
+            }
+          ]
         }
       ]
     },
