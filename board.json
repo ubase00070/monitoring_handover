@@ -1,26 +1,6 @@
 {
   "posts": [
     {
-      "id": "1782888312519",
-      "email": "ubase00090@gmail.com",
-      "author": "이도연",
-      "title": "솔직히",
-      "content": "내가 젤 잘생긴것같음 ㅇㅈ?",
-      "anon": false,
-      "createdAt": "2026-07-01T06:45:12.519Z",
-      "comments": [
-        {
-          "id": "c1782888491249",
-          "email": "ubase00069@gmail.com",
-          "author": "이도연",
-          "text": "?? 여긴 이름 막 바꿀수 있네;;",
-          "anon": false,
-          "createdAt": "2026-07-01T06:48:11.249Z",
-          "replies": []
-        }
-      ]
-    },
-    {
       "id": "1782887441063",
       "email": "ubase00069@gmail.com",
       "author": "이도연",
