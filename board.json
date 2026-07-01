@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "id": "1782887392973",
+      "email": "ubase00069@gmail.com",
+      "author": "익명",
+      "title": "안녕하다",
+      "content": "내가 돌아왔다",
+      "anon": false,
+      "createdAt": "2026-07-01T06:29:52.973Z",
+      "comments": []
+    },
+    {
       "id": "1782809817556",
       "email": "ubase00093@gmail.com",
       "author": "성혜진",
