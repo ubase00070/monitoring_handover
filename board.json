@@ -16,7 +16,16 @@
           "text": "사랑합니다 고객님",
           "anon": false,
           "createdAt": "2026-07-01T06:31:25.252Z",
-          "replies": []
+          "replies": [
+            {
+              "id": "r1782887659494",
+              "email": "ubase00089@gmail.com",
+              "author": "한승완",
+              "text": "ㅋㅋㅋㅋㅋ",
+              "anon": false,
+              "createdAt": "2026-07-01T06:34:19.494Z"
+            }
+          ]
         },
         {
           "id": "c1782887531932",
