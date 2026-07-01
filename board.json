@@ -90,6 +90,15 @@
               "createdAt": "2026-07-01T06:44:50.911Z"
             }
           ]
+        },
+        {
+          "id": "c1782888384469",
+          "email": "ubase00047@gmail.com",
+          "author": "이도연",
+          "text": "내가 왕이닷!",
+          "anon": false,
+          "createdAt": "2026-07-01T06:46:24.469Z",
+          "replies": []
         }
       ]
     },
